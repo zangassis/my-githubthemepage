@@ -363,3 +363,12 @@ FORM
 #form .button {
   margin: 20px 8px 10px;
 }
+
+.octocat-programmer-paint {
+  width: 100%;
+    height: auto;
+}
+
+  .link-header {
+    margin-left: 5px;
+  }
